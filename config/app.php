@@ -177,8 +177,8 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
         App\Providers\SettingServiceProvider::class,
+        App\Providers\RepositoryServiceProvider::class,
     ],
-
     /*
     |--------------------------------------------------------------------------
     | Class Aliases
